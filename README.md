@@ -1,3 +1,4 @@
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kolkarcodes&layout=compact)
 ## Hi there 👋
 A highly accomplished Senior Automation Test Engineer with over 8 years of experience delivering robust, scalable, and high-quality testing solutions across complex software systems. Specialising in UI, API, and end-to-end (E2E) testing, I bring a strong track record of enhancing product reliability and accelerating release cycles through strategic test automation.
 
