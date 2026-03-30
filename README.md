@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working in Sky UK limited<br>I am like working on playwright tool <br>
+I am currently working in Sky UK limited<br>I like working on playwright tool  <br>
 
 
 ## 🌐 Socials:
