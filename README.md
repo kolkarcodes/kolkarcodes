@@ -11,6 +11,7 @@ I am currently working in Sky UK limited<br>I am like wokring on playwright tool
 ![](https://github-readme-stats.vercel.app/api?username=kolkarcodes&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=kolkarcodes&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kolkarcodes&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kolkarcodes&layout=compact&theme=radical&langs_count=6)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kolkarcodes&theme=radical&no-frame=false&no-bg=false&margin-w=4)
