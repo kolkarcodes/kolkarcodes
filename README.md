@@ -1,3 +1,7 @@
+# Hello World, I am Kolkar ar 👋<img width="122" height="26" alt="image" src="https://github.com/user-attachments/assets/b69c556e-5bec-42e9-9a5e-735a3eaf8f16" />
+## Senior Automation engineer to the AI era
+
+
 # 💫 About Me:
 I am currently working in Sky UK limited<br>I like working on playwright tool  <br>
 
