@@ -16,6 +16,8 @@ I am currently working in Sky UK limited<br>I like working on automation tools l
 
 - 🔹 [Playwright Typescript Framework](https://github.com/kolkarcodes/playwright-ts-automation-pst)
 - 🔹 [PlaywrightTS ContractTest Framework](https://github.com/kolkarcodes/playwright-ts-graphql-contract-testing)
+- 🔹 [playwright-ts-graphql-contract-testing](https://github.com/kolkarcodes/playwright-ts-graphql-contract-testing)
+- 🔹 [playwright-bdd-pom](https://github.com/kolkarcodes/playwright-bdd-pom)
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kolkarcodes&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
