@@ -27,7 +27,7 @@ I am currently working in Sky UK limited<br>I like working on automation tools l
 
 ### 🔹 UI Automation
 [![Playwright TS Framework](https://img.shields.io/badge/Playwright-TS_Framework-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)](https://github.com/kolkarcodes/playwright-ts-automation-pst)
-- [Playwright Typescript Framework](https://github.com/kolkarcodes/playwright-ts-automation-pst
+[Playwright Typescript Framework](https://github.com/kolkarcodes/playwright-ts-automation-pst
 
 [![BDD POM Framework](https://img.shields.io/badge/Playwright-BDD_POM-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)](https://github.com/kolkarcodes/playwright-bdd-pom)
 - [playwright-bdd-pom](https://github.com/kolkarcodes/playwright-bdd-pom)  
