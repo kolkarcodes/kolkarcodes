@@ -26,7 +26,6 @@ I am currently working in Sky UK limited<br>I like working on automation tools l
 ## 🧪 Playwright Projects
 
 ### 🔹 UI Automation
-#-Click on the Playwright TS Framework Logo
 [![Playwright TS Framework](https://img.shields.io/badge/Playwright-TS_Framework-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)](https://github.com/kolkarcodes/playwright-ts-automation-pst)
 - [Playwright Typescript Framework](https://github.com/kolkarcodes/playwright-ts-automation-pst
 
