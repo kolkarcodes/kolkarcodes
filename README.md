@@ -11,7 +11,7 @@ I am currently working in Sky UK limited<br>I like working on automation tools l
 
 # 💻 Tech Stack:
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-%2345ba4b.svg?style=for-the-badge&logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/Playwright-%2345ba4b.svg?style=for-the-badge&logo=playwright&logoColor=white) ![Cypress](https://img.shields.io/badge/Playwright-%2345ba4b.svg?style=for-the-badge&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-%2345ba4b.svg?style=for-the-badge&logo=selenium&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-%2345ba4b.svg?style=for-the-badge&logo=cypress&logoColor=white)
 
 ## 🚀 My Projects
 ## Playwright
