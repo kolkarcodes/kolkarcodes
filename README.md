@@ -14,7 +14,7 @@ I am currently working in Sky UK limited<br>I like working on automation tools l
 ![Selenium](https://img.shields.io/badge/Selenium-%2345ba4b.svg?style=for-the-badge&logo=selenium&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-%2345ba4b.svg?style=for-the-badge&logo=cypress&logoColor=white)
 
 
-[![API Test BDD](https://img.shields.io/badge/Playwright-API_BDD-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)](https://github.com/kolkarcodes/apitest-playwright-ts-bdd-zippo)
+
 
 ## 🚀 My Projects
 
@@ -35,11 +35,13 @@ I am currently working in Sky UK limited<br>I like working on automation tools l
 - [GraphQL Contract Testing](https://github.com/kolkarcodes/playwright-ts-graphql-contract-testing)  
 
 ### 🔹 API + BDD Framework
+[![API Test BDD](https://img.shields.io/badge/Playwright-API_BDD-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)](https://github.com/kolkarcodes/apitest-playwright-ts-bdd-zippo)
 - [apitest-playwright-ts-bdd-zippo](https://github.com/kolkarcodes/apitest-playwright-ts-bdd-zippo)  
 
 ---
 
 ## 🌿 Cypress Projects
+[![Cypress Framework with JS](https://img.shields.io/badge/Cypress-JS_BDD-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)](https://github.com/kolkarcodes/cypress-js-webtesting-pom)
 - [cypress-js-webtesting-pom](https://github.com/kolkarcodes/cypress-js-webtesting-pom)
 
 
