@@ -10,7 +10,7 @@ I am currently working in Sky UK limited<br>I like working on automation tools l
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivakumarpkolkar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kolkarcodes@gmail.com)
 
 # 💻 Tech Stack:
-[![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](#-graphql-projects)
+[![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](# - graphql-projects)
 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-%2345ba4b.svg?style=for-the-badge&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-%2345ba4b.svg?style=for-the-badge&logo=selenium&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-%2345ba4b.svg?style=for-the-badge&logo=cypress&logoColor=white)
@@ -34,7 +34,7 @@ I am currently working in Sky UK limited<br>I like working on automation tools l
 - [playwright-bdd-pom](https://github.com/kolkarcodes/playwright-bdd-pom)  
 
 ### 🔹 API & Contract Testing
-#-graphql-projects
+# - graphql-projects
 - [PlaywrightTS ContractTest Framework](https://github.com/kolkarcodes/playwright-ts-graphql-contract-testing)  
 - [GraphQL Contract Testing](https://github.com/kolkarcodes/playwright-ts-graphql-contract-testing)  
 
