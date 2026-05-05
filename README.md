@@ -24,15 +24,25 @@ I am currently working in Sky UK limited<br>I like working on automation tools l
 [![API Test BDD](https://img.shields.io/badge/Playwright-API_BDD-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)](https://github.com/kolkarcodes/apitest-playwright-ts-bdd-zippo)
 
 ## 🚀 My Projects
-## Playwright
-- 🔹 [Playwright Typescript Framework](https://github.com/kolkarcodes/playwright-ts-automation-pst)
-- 🔹 [PlaywrightTS ContractTest Framework](https://github.com/kolkarcodes/playwright-ts-graphql-contract-testing)
-- 🔹 [playwright-ts-graphql-contract-testing](https://github.com/kolkarcodes/playwright-ts-graphql-contract-testing)
-- 🔹 [playwright-bdd-pom](https://github.com/kolkarcodes/playwright-bdd-pom)
-- 🔹 [apitest-playwright-ts-bdd-zippo](https://github.com/kolkarcodes/apitest-playwright-ts-bdd-zippo)
 
-## Cypress
-- 🔹 [cypress-js-webtesting-pom](https://github.com/kolkarcodes/cypress-js-webtesting-pom)
+## 🧪 Playwright Projects
+
+### 🔹 UI Automation
+- [Playwright Typescript Framework](https://github.com/kolkarcodes/playwright-ts-automation-pst)  
+- [playwright-bdd-pom](https://github.com/kolkarcodes/playwright-bdd-pom)  
+
+### 🔹 API & Contract Testing
+- [PlaywrightTS ContractTest Framework](https://github.com/kolkarcodes/playwright-ts-graphql-contract-testing)  
+- [GraphQL Contract Testing](https://github.com/kolkarcodes/playwright-ts-graphql-contract-testing)  
+
+### 🔹 API + BDD Framework
+- [apitest-playwright-ts-bdd-zippo](https://github.com/kolkarcodes/apitest-playwright-ts-bdd-zippo)  
+
+---
+
+## 🌿 Cypress Projects
+- [cypress-js-webtesting-pom](https://github.com/kolkarcodes/cypress-js-webtesting-pom)
+
 
 
 ## 📊 GitHub Stats
