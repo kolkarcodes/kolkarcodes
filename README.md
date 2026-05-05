@@ -15,9 +15,8 @@ I am currently working in Sky UK limited<br>I like working on automation tools l
 
 
 
-[![Playwright Contract Test](https://img.shields.io/badge/Playwright-Contract_Test-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)](https://github.com/kolkarcodes/playwright-ts-graphql-contract-testing)
 
-[![GraphQL Contract Testing](https://img.shields.io/badge/Playwright-GraphQL_Testing-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)](https://github.com/kolkarcodes/playwright-ts-graphql-contract-testing)
+
 
 [![API Test BDD](https://img.shields.io/badge/Playwright-API_BDD-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)](https://github.com/kolkarcodes/apitest-playwright-ts-bdd-zippo)
 
@@ -26,15 +25,16 @@ I am currently working in Sky UK limited<br>I like working on automation tools l
 ## 🧪 Playwright Projects
 
 ### 🔹 UI Automation
-[![Playwright TS Framework](https://img.shields.io/badge/Playwright-TS_Framework-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)](https://github.com/kolkarcodes/playwright-ts-automation-pst)
-- [Playwright Typescript Framework](https://github.com/kolkarcodes/playwright-ts-automation-pst
+[![Playwright TS Framework](https://img.shields.io/badge/Playwright-TS_Framework-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)](https://github.com/kolkarcodes/playwright-ts-automation-pst) 
+- [Playwright Typescript Framework](https://github.com/kolkarcodes/playwright-ts-automation-pst)
 
 [![BDD POM Framework](https://img.shields.io/badge/Playwright-BDD_POM-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)](https://github.com/kolkarcodes/playwright-bdd-pom)
 - [playwright-bdd-pom](https://github.com/kolkarcodes/playwright-bdd-pom)  
 
 ### 🔹 API & Contract Testing
-#-GraphQL-projects
-- [PlaywrightTS ContractTest Framework](https://github.com/kolkarcodes/playwright-ts-graphql-contract-testing)  
+[![Playwright Contract Test](https://img.shields.io/badge/Playwright-Contract_Test-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)](https://github.com/kolkarcodes/playwright-ts-graphql-contract-testing)
+- [PlaywrightTS ContractTest Framework](https://github.com/kolkarcodes/playwright-ts-graphql-contract-testing)
+[![GraphQL Contract Testing](https://img.shields.io/badge/Playwright-GraphQL_Testing-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)](https://github.com/kolkarcodes/playwright-ts-graphql-contract-testing)
 - [GraphQL Contract Testing](https://github.com/kolkarcodes/playwright-ts-graphql-contract-testing)  
 
 ### 🔹 API + BDD Framework
