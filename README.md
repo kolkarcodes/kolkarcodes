@@ -14,10 +14,6 @@ I am currently working in Sky UK limited<br>I like working on automation tools l
 ![Selenium](https://img.shields.io/badge/Selenium-%2345ba4b.svg?style=for-the-badge&logo=selenium&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-%2345ba4b.svg?style=for-the-badge&logo=cypress&logoColor=white)
 
 
-
-
-
-
 [![API Test BDD](https://img.shields.io/badge/Playwright-API_BDD-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)](https://github.com/kolkarcodes/apitest-playwright-ts-bdd-zippo)
 
 ## 🚀 My Projects
@@ -34,6 +30,7 @@ I am currently working in Sky UK limited<br>I like working on automation tools l
 ### 🔹 API & Contract Testing
 [![Playwright Contract Test](https://img.shields.io/badge/Playwright-Contract_Test-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)](https://github.com/kolkarcodes/playwright-ts-graphql-contract-testing)
 - [PlaywrightTS ContractTest Framework](https://github.com/kolkarcodes/playwright-ts-graphql-contract-testing)
+  
 [![GraphQL Contract Testing](https://img.shields.io/badge/Playwright-GraphQL_Testing-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)](https://github.com/kolkarcodes/playwright-ts-graphql-contract-testing)
 - [GraphQL Contract Testing](https://github.com/kolkarcodes/playwright-ts-graphql-contract-testing)  
 
