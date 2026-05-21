@@ -48,13 +48,10 @@ I am currently working in Sky UK limited<br>I like working on automation tools l
 ---
 ## 🌿 API Testing Projects
 
-### 🔹 Restassured API + BDD Cucumber Framework
-[![API Test BDD](https://img.shields.io/badge/RestAssured-API_BDD-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)](https://github.com/kolkarcodes/restassured-cucumber-bdd-framework)
-- [restassured-cucumber-bdd-framework](https://github.com/kolkarcodes/restassured-cucumber-bdd-framework)
-
 ### 🔹 REST Assured API + Cucumber BDD Framework
 [![RestAssured Cucumber BDD](https://img.shields.io/badge/REST_Assured-Cucumber_BDD-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/kolkarcodes/restassured-cucumber-bdd-framework)
-- [restassured-cucumber-bdd-framework](https://github.com/kolkarcodes/restassured-cucumber-bdd-framework)  
+- [restassured-cucumber-bdd-framework](https://github.com/kolkarcodes/restassured-cucumber-bdd-framework)
+- - [restassured-cucumber-bdd-framework](https://github.com/kolkarcodes/restassured-cucumber-bdd-framework)
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kolkarcodes&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
