@@ -39,7 +39,7 @@ I am currently working in Sky UK limited<br>I like working on automation tools l
 - [apitest-playwright-ts-bdd-zippo](https://github.com/kolkarcodes/apitest-playwright-ts-bdd-zippo)  
 
 ### 🔹 Restassured API + BDD Cucmber Framework
-[![API Test BDD](https://img.shields.io/badge/Playwright-API_BDD-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)](https://github.com/kolkarcodes/restassured-cucumber-bdd-framework)
+[![API Test BDD](https://img.shields.io/badge/RestAssured-API_BDD-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)](https://github.com/kolkarcodes/restassured-cucumber-bdd-framework)
 - [restassured-cucumber-bdd-framework](https://github.com/kolkarcodes/restassured-cucumber-bdd-framework)  
 ---
 
