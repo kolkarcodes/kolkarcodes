@@ -50,6 +50,8 @@ I am currently working in Sky UK limited<br>I like working on automation tools l
 - [restassured-cucumber-bdd-framework](https://github.com/kolkarcodes/restassured-cucumber-bdd-framework)
 
 ## 📊 GitHub Stats
+![GitHub Contribution Graph](https://github-contribution-stats.vercel.app/api?username=kolkarcodes)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kolkarcodes&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ---
