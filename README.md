@@ -38,16 +38,19 @@ I am currently working in Sky UK limited<br>I like working on automation tools l
 [![API Test BDD](https://img.shields.io/badge/Playwright-API_BDD-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)](https://github.com/kolkarcodes/apitest-playwright-ts-bdd-zippo)
 - [apitest-playwright-ts-bdd-zippo](https://github.com/kolkarcodes/apitest-playwright-ts-bdd-zippo)  
 
-### 🔹 Restassured API + BDD Cucmber Framework
-[![API Test BDD](https://img.shields.io/badge/RestAssured-API_BDD-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)](https://github.com/kolkarcodes/restassured-cucumber-bdd-framework)
-- [restassured-cucumber-bdd-framework](https://github.com/kolkarcodes/restassured-cucumber-bdd-framework)  
+
 ---
 
 ## 🌿 Cypress Projects
 [![Cypress Framework with JS](https://img.shields.io/badge/Cypress-JS_BDD-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)](https://github.com/kolkarcodes/cypress-js-webtesting-pom)
 - [cypress-js-webtesting-pom](https://github.com/kolkarcodes/cypress-js-webtesting-pom)
 
+---
+## 🌿 API Testing Projects
 
+### 🔹 Restassured API + BDD Cucumber Framework
+[![API Test BDD](https://img.shields.io/badge/RestAssured-API_BDD-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)](https://github.com/kolkarcodes/restassured-cucumber-bdd-framework)
+- [restassured-cucumber-bdd-framework](https://github.com/kolkarcodes/restassured-cucumber-bdd-framework)  
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kolkarcodes&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
